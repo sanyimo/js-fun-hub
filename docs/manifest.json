@@ -1,0 +1,21 @@
+{
+    "name": "JS Fun Hub",
+    "short_name": "JSFun",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#111827",
+    "theme_color": "#111827",
+    "description": "Mini apps y juegos interactivos en JavaScript.",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.webp",
+            "sizes": "192x192",
+            "type": "image/webp"
+        },
+        {
+            "src": "android-chrome-512x512.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        }
+    ]
+}

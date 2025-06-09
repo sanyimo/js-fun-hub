@@ -1,0 +1,37 @@
+{
+    "name": "Alex Sudoku",
+    "short_name": "Sudoku",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f9f9f9",
+    "theme_color": "#2d89ef",
+    "orientation": "portrait",
+    "description": "Juega Sudoku en cualquier dispositivo. Rápido, limpio y divertido.",
+    "icons": [
+        {
+            "src": "Sudoku-64.webp",
+            "sizes": "64x64",
+            "type": "image/webp"
+        },
+        {
+            "src": "Sudoku-96.webp",
+            "sizes": "96x96",
+            "type": "image/webp"
+        },
+        {
+            "src": "Sudoku-256.webp",
+            "sizes": "256x256",
+            "type": "image/webp"
+        },
+        {
+            "src": "Sudoku-512.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        },
+        {
+            "src": "Sudoku.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
